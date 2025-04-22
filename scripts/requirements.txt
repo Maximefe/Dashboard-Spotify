@@ -56,3 +56,4 @@ tzdata==2025.2
 urllib3==2.4.0
 wcwidth==0.2.13
 widgetsnbextension==4.0.14
+kaleido
