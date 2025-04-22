@@ -1,8 +1,8 @@
-# analyse de mes données Spotify 
+# Analyse de mes données Spotify 
 Projet pour récupérer les données et réaliser une exploration afin d'avoir un aperçu du top artiste, top titre et recommandation de nouveaux artistes
 
 
 - Utilisation de l'API Spotify et last.fm pour récupérer les données
 - Stockage des données via la base PostgreSQL Koyeb
-- Exploration de Visualisation des résultats sous le notebook : https://public.tableau.com/app/profile/maxime.ferre/viz/Dashboard_Jedha_Grippe/Histoire1?publish=yes
+- Exploration de Visualisation des résultats sous le notebook : 
 
