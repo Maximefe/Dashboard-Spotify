@@ -1,0 +1,12 @@
+
+# Ignorer le dossier logs
+logs/
+
+#données privées
+.env
+
+# Facultatif : ignorer tous les fichiers temporaires et système courants
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
